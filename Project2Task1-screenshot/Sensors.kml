@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<Document>
+		<Style id="style1">
+			<IconStyle>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/MSOuW3ZjC7uflJAMst-cykSOEOwI_cVz96s2rtWTN4-Vu1NOBw80pTqrTe06R_AMfxS2=w170</href>
+				</Icon> 
+			</IconStyle> 
+		</Style> 
+		<Placemark>
+			<name>sensor 1</name>
+			<description>Moe</description>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>-79.94893572, 40.44583796, 0.00</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>sensor 2</name>
+			<description>Moe</description>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>-79.95404587, 40.453163, 0.000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>sensor 3</name>
+			<description>Moe</description>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>-79.96075434, 40.43564356, 0.00</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>sensor 4</name>
+			<description>Moe</description>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>-79.95920304, 40.4398469, 0.00</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>sensor 5</name>
+			<description>Larry</description>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>-79.95102196, 40.45055952, 0.00</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>sensor 6</name>
+			<description>Larry</description>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>-79.95102196, 40.45055952, 0.000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>sensor 7</name>
+			<description>Moe</description>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>-79.94343405, 40.45192574, 0.000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>sensor 8</name>
+			<description>Moe</description>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>-79.94633024, 40.45362031, 0.000</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
